@@ -1,7 +1,11 @@
-# Professional README Generator Starter Code
+# ReadME Generator
+  # Description
+  This project uses node to create a Readme file with a project title and description from the command line.
+  
+  # Table of Contents
+  - [Description](#desc)
+  - [Usage](#use)
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
-[Video of project]
-https://user-images.githubusercontent.com/91573109/159820445-2f8b203c-3a01-4a87-867a-2e8cc03f8aca.mp4
+  # Usage
+  Type node index.js into the Terminal
 
